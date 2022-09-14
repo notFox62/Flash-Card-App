@@ -6,7 +6,7 @@
 App askes a question, currently "Who is the 44th President of the United States?". It then waits for a click by the user, making the question invisible and makes the corresponding anwser visible.
 
 ### App Walk-though
-<img src="https://imgur.com/a/V1QO90S" width=200><br>
+<img src="https://i.imgur.com/MUpHY8G.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
